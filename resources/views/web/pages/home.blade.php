@@ -20,6 +20,7 @@
         <x-image isSlide="true" image="rc_oberwil-lieli-8.5-zimmer-05" width="1600" height="1067" alt="{{ __('8.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48 %) 8966 Oberwil-Lieli') }}" />
         <x-image isSlide="true" image="rc_oberwil-lieli-8.5-zimmer-06" width="1600" height="1067" alt="{{ __('8.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48 %) 8966 Oberwil-Lieli') }}" />
         <x-image isSlide="true" image="rc_oberwil-lieli-8.5-zimmer-07" width="1600" height="1067" alt="{{ __('8.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48 %) 8966 Oberwil-Lieli') }}" />
+        <x-image isSlide="true" image="rc_oberwil-lieli-8.5-zimmer-08" width="1600" height="1067" alt="{{ __('8.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48 %) 8966 Oberwil-Lieli') }}" />
       </x-slideshow>
     </article>
   </div>
@@ -31,11 +32,9 @@
         <h2>{{ __('content.heading-location') }}</h2>
         {!! __('<p>In ländlicher Umgebung nur 14 km (17 Autominuten) von der Stadtgrenze Zürich, 30 km von Zug und 26 km vom Flughafen Zürich entfernt, liegt die idyllische Gemeinde Oberwil-Lieli. Eine Busstation vor dem Haus bringt sie mit einem Schnellbus ohne Halt in nur 20 Minuten nach Zürich Enge.</p><p>Am Ende einer Sackgasse, an ruhiger Lage, geniesst man traumhafte Sonnenuntergänge auf der grossen, begrünten Terrasse mit viel Privatsphäre.</p>In der Nähe finden sich zahlreiche Freizeitmöglichkeiten: Fussballplatz, Handball-, Basketballplatz, Skateranlage, Beach-Volleyball-Platz sowie grosser Kletterturm mit Rutsche.</p><p>Die Primarschule und der Kindergarten liegen nur 230 Meter entfernt, welche ohne Überquerung einer Strasse in wenigen Minuten zu Fuss erreichbar sind.</p><p>Das Lebensmittelgeschäft Volg sowie Biohöfe befinden sich in der näheren Umgebung.</p>') !!}
       </div>
-      <a href="/assets/media/rc_oberwil-lieli.mp4" data-fancybox="video">
-        <figure class="has-button">
-          <img src="/assets/media/rc_oberwil-lieli-preview.jpg" width="1600" height="1067" alt="{{ __('content.heading-location') }}" loading="lazy">
-        </figure>
-      </a>
+      <figure>
+        <img src="/assets/media/rc_oberwil-lieli-8.5-zimmer-00.jpg" width="1600" height="1067" alt="{{ __('content.heading-location') }}" loading="lazy">
+      </figure>
     </article>
     <article class="is-reverse is-plans">
       <div class="order-1 sm:order-2">
