@@ -8,7 +8,7 @@
     <article class="is-intro">
       <div class="intro__text">
         <div>
-          <h1>{!! __('8.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48 %) 8966 Oberwil-Lieli') !!}</h1>
+          <h1>{!! __('8.5-Zimmer-Duplex-Terrassenhaus in der steuergünstigsten Gemeinde des Kantons Aargau (Steuerfuss 48 %) 8966&nbsp;Oberwil-Lieli') !!}</h1>
           {!! __('<p>Grosses, lichtdurchflutetes Duplex-Terrassenhaus (Stockwerkeigentum), 400 m<sup>2</sup> Wohnfläche mit ganztägiger Besonnung, 179 m<sup>2</sup> Terrasse, grossem Eingangsbereich, 5 grosszügigen Schlafzimmern, 4 hochwertigen Badezimmern,  grossräumigem Wohn-Esszimmer, geschlossener Küche mit neuen Küchengeräten, Reduit, Fitnessraum mit eigenem Eingang (kann auch als Büro benutzt werden), grossem Mehrzweckraum mit Schallisolation, welcher sich als Partyraum, Heimkino, Spielzimmer oder als Gästezimmer eignet, 2 Doppelgaragen, 6 Aussenstellplätze</p>') !!}
         </div>
       </div>
@@ -98,34 +98,6 @@
         <h1>{{ __('Raumprogramm') }}</h1>
         <table class="is-narrow">
           <tr>
-            <td>{{ __('Wohnen/Essen') }}</td>
-            <td>49&nbsp;{!! __('m<sup>2</sup>') !!}</td>
-          </tr>
-          <tr>
-            <td>{{ __('Küche') }}</td>
-            <td>20&nbsp;{!! __('m<sup>2</sup>') !!}</td>
-          </tr>
-          <tr>
-            <td>{{ __('Master Bedroom') }}</td>
-            <td>26&nbsp;{!! __('m<sup>2</sup>') !!}</td>
-          </tr>
-          <tr>
-            <td>{{ __('Badezimmer/Bad/Dusche/Badewanne') }}</td>
-            <td>12&nbsp;{!! __('m<sup>2</sup>') !!}</td>
-          </tr>
-          <tr>
-            <td>{{ __('Schlafzimmer') }}</td>
-            <td>21&nbsp;{!! __('m<sup>2</sup>') !!}</td>
-          </tr>
-          <tr>
-            <td>{{ __('Schlafzimmer') }}</td>
-            <td>20&nbsp;{!! __('m<sup>2</sup>') !!}</td>
-          </tr>
-          <tr>
-            <td>{{ __('Badezimmer/Dusche') }}</td>
-            <td>7&nbsp;{!! __('m<sup>2</sup>') !!}</td>
-          </tr>
-          <tr>
             <td>{{ __('Kinderzimmer/Büro') }}</td>
             <td>18&nbsp;{!! __('m<sup>2</sup>') !!}</td>
           </tr>
@@ -150,18 +122,9 @@
             <td>4&nbsp;{!! __('m<sup>2</sup>') !!}</td>
           </tr>
           <tr>
-            <td>{{ __('Garten') }}</td>
-            <td>185&nbsp;{!! __('m<sup>2</sup>') !!}</td>
-          </tr>
-          <tr>
             <td>{{ __('Sitzplatz') }}</td>
             <td>29&nbsp;{!! __('m<sup>2</sup>') !!}</td>
           </tr>
-          <tr>
-            <td>{{ __('Garage') }}</td>
-            <td>36&nbsp;{!! __('m<sup>2</sup>') !!}</td>
-          </tr>
-                
         </table>
       </div>
       <div class="order-2 sm:order-1">
